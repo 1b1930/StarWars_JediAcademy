@@ -11,3 +11,9 @@ The initial release can be found [on SourceForge](http://sourceforge.net/project
 The code here should be consistent with the released version. The existing CVS meta files have been removed and Git files have been added.
 
 No further updates to this repository are planned unless updates are posted by Raven Software. Please fork the repository if you want to contribute changes.
+
+## Release Info
+**Platform:** Xbox, Win32, Gamecube  
+**Game:** Star Wars: Jedi-Academy  
+**Type:** Source Code - Complete / Buildable.  
+**Source:** https://github.com/grayj/Jedi-Academy  
